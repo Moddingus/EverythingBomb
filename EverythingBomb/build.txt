@@ -1,0 +1,3 @@
+displayName = Everything Bomb
+author = Max
+version = 0.1

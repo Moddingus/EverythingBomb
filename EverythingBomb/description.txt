@@ -1,0 +1,3 @@
+Everything Bomb allows you to craft a block bomb like the dirt bomb with ANY tile (mods included).
+
+To craft them, use a one bomb and 25 of you desired block at a workbench. Make sure to only have your desired tile in your inventory or the UI will get pretty messy.
